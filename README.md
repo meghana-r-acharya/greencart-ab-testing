@@ -1,7 +1,6 @@
 # GreenCart Checkout A/B Test: Statistical Analysis & Dashboard
 
-![tests](https://github.com/<your-username>/greencart-ab-test/actions/workflows/ci.yml/badge.svg)
-
+![tests](https://github.com/meghana-r-acharya/greencart-ab-testing/actions/workflows/ci.yml/badge.svg)
 **Python · SQL (SQLite) · SciPy · Streamlit · Plotly**
 
 End-to-end analysis of a simulated checkout A/B test (9,000 sessions): experiment design, data validation, a
